@@ -47,7 +47,7 @@
 
 ### 📫 Como me encontrar
 <p>
-  <a href="https://www.linkedin.com/in/cialen-paiva-2703a202/" target="_blank">
+  <a href="https://www.linkedin.com/in/cialen-paiva-270949220/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
