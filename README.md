@@ -26,22 +26,22 @@
 
 ### 📊 Minhas estatísticas no GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cialen&show_icons=true&theme=dracula" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cialen&layout=compact&theme=dracula" height="180" />
 </p>
 
 ---
 
 ### 📈 Gráfico de contribuições
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cialen&theme=dracula" />
 </p>
 
 ---
 
 ### 📟 Contador de visitantes
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualiza%C3%A7%C3%B5es&color=blue&style=flat" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Cialen&label=Visualiza%C3%A7%C3%B5es&color=blue&style=flat" alt="Contador de visitas" />
 </p>
 
 ---
